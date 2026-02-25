@@ -1,0 +1,9 @@
+{
+	"name": "nikitafactoryazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "04c6e3a2-442b-4634-bf28-79ba5fc04206",
+		"tenantId": "66b9f62d-3042-495e-aab6-db86f21500c0"
+	}
+}
